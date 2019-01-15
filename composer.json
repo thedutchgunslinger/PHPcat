@@ -1,0 +1,13 @@
+{
+    "name": "nbeij/phpcat",
+    "description": "A small basic framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noah Beij",
+            "email": "thedutchgunslinger@gmail.com"
+        }
+    ],
+    "require": {}
+}
